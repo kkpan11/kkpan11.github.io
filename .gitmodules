@@ -1,0 +1,12 @@
+[submodule "themes/blackburn"]
+	path = themes/blackburn
+	url = git@github.com:yoshiharuyamashita/blackburn.git
+[submodule "themes/hugo-book"]
+	path = themes/hugo-book
+	url = https://github.com/alex-shpak/hugo-book
+[submodule "themes/showcase"]
+	path = themes/showcase
+	url = https://github.com/apvarun/showcase-hugo-theme.git
+[submodule "themes/hugo-coder"]
+	path = themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git

@@ -1,3 +1,31 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://kkpan11.gitlab.io'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Gianni Hong'
+
+theme = 'hugo-book'
+
+# enableInlineShortcodes = true
+
+[menu]
+[[menu.main]]
+  name ="Home"
+  url = "/"
+  weight = 1
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 2
+[[menu.main]]
+  name = "Projects"
+  url = "/projects/"
+  weight = 3
+
+[params]
+  # (Optional, default none) Set leaf bundle to render as side menu
+  # When not specified file structure and weights will be used
+  # Deprecated, to be removed in June 2022
+  BookMenuBundle = '/menu'
+
+  # (Optional, default docs) Specify section of content to render as menu
+  # You can also set value to "*" to render all sections to menu
+  BookSection = 'projects'
