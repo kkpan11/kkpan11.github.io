@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gianni Hong</title>
-    <link>https://gianni-hong.netlify.app/</link>
+    <link>https://kkpan11.gitlab.io/</link>
     <description>Recent content on Gianni Hong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://gianni-hong.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://kkpan11.gitlab.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://gianni-hong.netlify.app/about/</link>
+      <link>https://kkpan11.gitlab.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gianni-hong.netlify.app/about/</guid>
+      <guid>https://kkpan11.gitlab.io/about/</guid>
       <description>Hi, I&amp;rsquo;m Gianni.
  Software developer with five years&amp;rsquo; experience in implementing a variety of innovative products on the mobile, wearable and medical startups. Also worked on a large-scale global e-commerce company for two and half years with global teams. I’m looking forward to bringing together professionals from various fields to solve difficult problems in the world. Hope I can do something for human beings on the earth. As a coder, book lover, enthusiastic cyclist, type 1 diabetic.</description>
     </item>
