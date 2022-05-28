@@ -1,6 +1,6 @@
 [[redirects]]
-  from = "https://gianni-hong.netlify.appdocs/*"
-  to = "https://gianni-hong.netlify.appdocs/*"
+  from = "https://gianni-hong.netlify.appdocs"
+  to = "https://gianni-hong.netlify.appdocs"
   status = 301
   force = true
   query = {path = ":path"}
