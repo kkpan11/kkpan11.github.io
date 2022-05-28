@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rakuma on Gianni Hong</title>
-    <link>https://gianni-hong.netlify.app/projects/rakuma/</link>
+    <link>https://kkpan11.github.io/projects/rakuma/</link>
     <description>Recent content in Rakuma on Gianni Hong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://gianni-hong.netlify.app/projects/rakuma/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://kkpan11.github.io/projects/rakuma/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
