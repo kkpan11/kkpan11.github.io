@@ -1,6 +1,0 @@
-[[redirects]]
-  from = "https://gianni-hong.netlify.appdocs"
-  to = "https://github.com/kkpan11/kkpan11.github.io/tree/gh-pages/docs"
-  status = 301
-  force = true
-  query = {path = ":path"}
