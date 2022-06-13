@@ -5,7 +5,7 @@ headless: true
 - [**About**]({{< relref "about.md" >}})
 ---
 - [**Projects**]({{< relref "/projects/" >}})
-  - [Rakuma _(2020_2021)_]({{< relref "/projects/Rakuma/" >}})
+  - [Rakuma _(2020-2021)_]({{< relref "/projects/Rakuma/" >}})
   - [Rakuten Ichiba _(2018-2020)_]({{< relref "/projects/Taiwan Ichiba/" >}})
   - [Smart BP _(2016-2017)_]({{< relref "/projects/Smart BP/" >}})
   - [Pulse _(2015)_]({{< relref "/projects/Pulse/" >}})
