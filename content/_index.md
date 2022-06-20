@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Hi"
 ---
 
 ![](https://www.gravatar.com/avatar/a4e3dafd95983ca2d4f2538d7ad816a8)
