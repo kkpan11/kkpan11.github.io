@@ -29,3 +29,8 @@ theme = 'hugo-book'
   # (Optional, default docs) Specify section of content to render as menu
   # You can also set value to "*" to render all sections to menu
   BookSection = 'projects'
+
+  # (Optional, default true) Controls table of contents visibility on right side of pages.
+  # Start and end levels can be controlled with markup.tableOfContents setting.
+  # You can also specify this parameter per page in front matter.
+  BookToC = false
