@@ -6,6 +6,11 @@ theme = 'hugo-book'
 
 # enableInlineShortcodes = true
 
+# Add Custom CSS Or Javascript To Your Hugo Site
+# https://www.banjocode.com/post/hugo/custom-css
+# custom_css = ["css/custom.css"]
+# custom_js = ["js/custom.js"]
+
 [menu]
 [[menu.main]]
   name ="Home"
