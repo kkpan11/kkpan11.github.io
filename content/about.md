@@ -14,6 +14,7 @@ Hope I can do something for human beings on the earth. As a coder, book lover, e
 ---
 
 - [GitHub](https://github.com/kkpan11)
+- [GitLab](https://gitlab.com/kkpan11)
 - [Stack Overflow](https://stackoverflow.com/users/1201624/kkpan)
 - [LinkedIn](https://www.linkedin.com/in/kkpan)
 - [Social Links](https://about.me/kkpan11)
