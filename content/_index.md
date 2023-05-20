@@ -26,6 +26,8 @@ Hope I can do something for human beings on the earth. As a coder, book lover, e
 
 ## About This Site
 
-This site is built with [Hugo](https://gohugo.io/) and [Book](https://github.com/alex-shpak/hugo-book) theme.
+This site is built with [Hugo](https://gohugo.io/) and the [Book](https://github.com/alex-shpak/hugo-book) theme. Furthermore, I have integrated the [PDF.js](https://github.com/mozilla/pdf.js) open-source library to enable the rendering of PDF documents related to some of my previous projects.
 
-Furthermore, to enable the rendering of PDF documents pertaining to some of my previous projects, I have integrated the [PDF.js](https://github.com/mozilla/pdf.js) open-source library.
+---
+
+*Last updated: 2023-05-20*
